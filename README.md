@@ -18,14 +18,11 @@ Verify @: https://aws.amazon.com/verification
 
 ## My Work
 - 🖥️ Focused on creating resilient, scalable, and secure applications.
-- ⚛️ JavaScript Full Stack applications (React, Next.js)
+- ⚛️ JavaScript Full Stack applications (React, Next.js, NodeJS)
+- 🐍 Machine Learning & building LLM powered applications (Python)
 - ☁️ Expertise in AWS CDK, SDKs, and Amplify
 - ✍️ Published author of AWS Blog posts (ex. https://aws.amazon.com/blogs/mobile/new-announcing-custom-primary-key-support-for-amplify-datastore/)
 - 📖 Technical Documentation (ex. https://github.com/aws-amplify/docs/pull/6293)
-
-## Currently learning
-- 🧠 Machine Learning
-- 🤖 Building LLM-powered applications
 
 ## Contributions
 - 📈 817 contributions in the last year
