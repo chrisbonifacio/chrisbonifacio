@@ -1,11 +1,6 @@
 ### Hello, World! 👋
 
-# Chris Bonifacio (@chrisbonifacio)
-
-Welcome to the code realm of Chris Bonifacio, a dynamic software engineer and solutions architect with a passion for AWS Amplify and robust web applications.
-
 ## About Me
-- 🌍 Based in Manchester, CT
 - 💼 Working on AWS Amplify at Amazon Web Services
 - 📚 Avid learner and contributor in tech
 - 🌟 Certified AWS Solutions Architect
