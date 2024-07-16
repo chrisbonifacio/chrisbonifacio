@@ -16,7 +16,7 @@ Verify @: https://aws.amazon.com/verification
 - ⚛️ JavaScript Full Stack applications (React, Next.js, NodeJS)
 - 🤖 Machine Learning & building Generative AI applications (Python)
 - ☁️ Expertise in AWS CDK, SDKs, and Amplify libraries (REST API, GraphQL & DataStore)
-- 📖 Expertise in AppSync, DynamoDB
+- 📖 Experienced with AppSync, DynamoDB
 - ✍️ Published author of AWS Blog posts (ex. https://aws.amazon.com/blogs/mobile/new-announcing-custom-primary-key-support-for-amplify-datastore/)
 - 📖 Technical Documentation (ex. https://github.com/aws-amplify/docs/pull/6293)
 
