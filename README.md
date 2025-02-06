@@ -20,11 +20,6 @@ Verify @: https://aws.amazon.com/verification
 - ✍️ Published author of AWS Blog posts (ex. https://aws.amazon.com/blogs/mobile/new-announcing-custom-primary-key-support-for-amplify-datastore/)
 - 📖 Technical Documentation (ex. https://github.com/aws-amplify/docs/pull/6293)
 
-## Contributions
-- 📈 817 contributions in the last year
-- 🛠️ Frequent contributor to aws-amplify
-- 🌟 16 stars on my repositories
-
 ## Let's Connect
 - 📫 How to reach me: [Email](christopher.bonifacio@gmail.com)
 - 👥 Collaborations, ideas, and discussions are always welcome!
