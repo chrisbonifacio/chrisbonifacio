@@ -1,7 +1,7 @@
 ### Hello, World! 👋
 
 ## About Me
-- 💼 Working on AWS Amplify at Amazon Web Services
+- 💼 Working on Kiro - Agentic IDE, previously AWS Amplify, at Amazon Web Services
 - 📚 Avid learner and contributor in tech
 - 🌟 Certified AWS Solutions Architect
 
